@@ -1,0 +1,7 @@
+{
+    "id":1,
+    "questions":"Trong phong tục ăn uống truyền thống của người Việt, loại gia vị nào thường được dùng làm nước chấm chính gắn liền với bữa cơm hàng ngày?",
+    "domains":"culture",
+    "options":["Mù tạt","Nước mắm","Xì dầu đậm đặc","Sốt mayonnaise"],
+    "true_answers":"Nước mắm"
+}
