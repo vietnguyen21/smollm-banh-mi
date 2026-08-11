@@ -1,0 +1,21 @@
+# Core ML / training
+torch>=2.13
+transformers>=4.50
+datasets>=3.0
+accelerate>=1.0
+
+# QLoRA / PEFT
+peft>=0.14
+bitsandbytes>=0.50
+
+# RL / post-training (SFT + preference)
+trl>=1.9
+
+# Tokenization / eval utilities
+tokenizers>=0.20
+einops>=0.8
+
+# Misc
+numpy>=2.0
+pandas>=2.2
+tqdm>=4.66
